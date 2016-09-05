@@ -5,8 +5,19 @@ var myBook = {
 	owned : null,
 }
 
-//YOUR CODE HERE
 
+	myBook.title = "My Autobiography"  
+	myBook.cover = "paperback"
+	myBook.pages = 320
+	myBook.owned = true
+	myBook.inStores = false
+	
+}
+
+
+ for var (title: "My Autobiography", cover: "paperback", pages: 320, owned: true, inStores: false);
+   	console.log(key);
+    });
 
 
 
@@ -20,5 +31,5 @@ var myBook = {
 
 //YOUR CODE ENDS HERE
 
-//Uncomment code below to check if you have properly assigned the values.
-//console.log(myBook);
+Uncomment code below to check if you have properly assigned the values.
+console.log(myBook);
